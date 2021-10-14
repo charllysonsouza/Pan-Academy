@@ -1,1 +1,4 @@
 /bin/
+.claspath
+.project
+.gitignore
